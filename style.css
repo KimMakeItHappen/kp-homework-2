@@ -54,7 +54,7 @@ h3 {
 
 body {
   max-width: 1000px;
-  background-image: linear-gradient(to bottom, red, skyblue, white);
+  background-image: linear-gradient(to bottom, skyblue, white);
   margin: 0 auto;
 }
 
